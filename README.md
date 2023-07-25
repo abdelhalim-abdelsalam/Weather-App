@@ -1,14 +1,8 @@
-# <<<<<<< HEAD
-
-![weather-app-web](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/5dbf3f87-a5e5-4560-9776-1d3e97d690ff)
-
-![weather-mob](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/7f742d2d-7114-49c2-b5a9-de110773d65a)
-
-# weather-app
-
-> > > > > > > 683a23cab9664698cde8d7c9cf66717aabc6ea14
-
 # Weather application in Vue.JS
+
+=======
+
+> > > > > > > b916f7123189176f9e7bfe789ff450eb3dd9f2b8
 
 ## Project setup
 
