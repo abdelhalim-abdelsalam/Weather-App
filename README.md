@@ -1,4 +1,10 @@
+![weather-app-web](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/5dbf3f87-a5e5-4560-9776-1d3e97d690ff)
+
+![weather-mob](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/7f742d2d-7114-49c2-b5a9-de110773d65a)
+
 # weather-app
+
+
 # Weather application in Vue.JS
 
 ## Project setup
@@ -22,6 +28,4 @@ npm run build
 ## Application images
 ![Login page](/images/login_page.png)
 ![Main page](/images/main_page.png)
-![weather-mob](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/86d27670-26be-4439-bbc7-678ede3d0e0d)
 
-```![weather-app-web](https://github.com/abdelhalim-abdelsalam/weather-app/assets/108537602/dcd0f277-8cdf-4538-8b34-2165dee90707)
